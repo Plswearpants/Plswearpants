@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Plswearpants
-- 👀 I’m interested in building cool gadgets that works to better humanity
-- 🌱 I’m currently learning How to build a world map and compass of knowledge and information. 
+- 👋 Hi, I’m @Dong Chen
+- 👀 I’m interested in building cool gadgets that work to better humanity
+- 🌱 I’m currently learning how to enhance our understanding of AI models through mechanistic interpretability research. 
 - 💞️ I’m looking to collaborate on responsible and humane AI. 
 - 📫 How to reach me: email: dchen@phas.ubc.ca
 
